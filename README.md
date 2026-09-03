@@ -1,7 +1,7 @@
 # 📄 AI-Powered LaTeX CV Customizer
 
 An AI-driven web application built with **Google AI Studio** and **Gemini 1.5/2.0** that allows users to seamlessly tailor, compile, and export professional, ATS-optimized LaTeX resumes based on job descriptions.
-APP Link: (https://latex-cv-customizer.ai.studio/)
+APP Link: https://latex-cv-customizer.ai.studio/
 ---
 
 ## ✨ Features
