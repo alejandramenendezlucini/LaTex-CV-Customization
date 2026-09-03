@@ -1,0 +1,6 @@
+{
+  "name": "LaTeX CV Customizer",
+  "description": "Customize and tailor your LaTeX CV to specific job descriptions and company profiles to highlight relevant experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
